@@ -29,7 +29,7 @@ This repository contains a set of **academic presentation slides** prepared usin
 The slides can be compiled using:
 
 ```bash
-pdflatex main.tex
+pdflatex -pdf -f main.tex
 ```
 
 ## Notes
